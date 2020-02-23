@@ -1,0 +1,5 @@
+<?php
+
+namespace App;
+
+// Define constants here for configuration, they will be usable in the App scope.
